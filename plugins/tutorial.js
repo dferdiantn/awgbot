@@ -10,17 +10,18 @@ Ketik di *[TERMUX]*
 4) $pkg install nodejs
 
 Untuk Githubnya..
-5) $git clone https://github.com/Arya274/Arya-BOT3
+5) $https://github.com/dferdiantn/awgbot
 6) $ls
-7) $cd Arya-BOT3
+7) $cd awgbot
 
 yang *terakhirr*..
 Penginstalannya cuy :)
 8) npm i
 9) node index.js
 
+[NB: Saya pribadi menggunakan RDP Ubuntu 14.06
+tutorial lengkap ada di https://github.com/dferdiantn/awgbot ]
 _Dukung saya di S.id/dferdiantn_
-*Youtube kami:*
 `.trim(), m)
 }
 handler.help = ['tutorial']
