@@ -18,6 +18,7 @@ Ini *#caranya untuk Donasi*
 "Udah B.."
 
 For More Inforation S.id/dferdiantn
+(NB: Kalo miskin jangan lah kau ketik /donasi anjeng. Bikin aku berharap)
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
 handler.tags = ['info']
