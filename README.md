@@ -1,4 +1,4 @@
-# Drawl Nag
+# AWGcorp
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
@@ -37,7 +37,7 @@ Simple WhatsApp Bot
 # Recode: Drawl Nag
 Script: @Nurutomo
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif"/>
+<img src="<div style="width:100%;height:0;padding-bottom:178%;position:relative;"><iframe src="https://giphy.com/embed/W1QXWwnYSkKo2w6gFB" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/mood-xtream-udahb-W1QXWwnYSkKo2w6gFB">via GIPHY</a></p>"/>
 
 </p>
 
