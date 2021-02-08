@@ -37,7 +37,7 @@ Simple WhatsApp Bot
 # Recode: Drawl Nag
 Script: @Nurutomo
 
-<img src="https://giphy.com/embed/W1QXWwnYSkKo2w6gFB"/>
+<img src="https://giphy.com/gifs/W1QXWwnYSkKo2w6gFB/html5"/>
 
 </p>
 
