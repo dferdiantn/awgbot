@@ -74,7 +74,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
     conn.menu = conn.menu ? conn.menu : {}
     let before = conn.menu.before || `
 ╭════•›「 ${conn.getName(conn.user.jid)} 」
-╿  Hai, %name !
+╿  Hai, %name panteq
 ╿ Total : *%exp XP*
 ╿ Tersisa : *%limit Limit*
 ╿
@@ -87,7 +87,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 
 ╭════•›「 Sosmed 」
 ╿ Github :
-╿ https://github.com/Arya274/Arya-BOT3
+╿ https://github.com/dferdiantn/awgbot
 ╿ URL : S.id/dferdiantn
 ╰═══════════════
 
@@ -95,6 +95,7 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 ╿• FC/VC = BAN/BLOKIR
 ╿• Spam = BLOKIR
 ╿• Ingin Donasi ?
+╿• Bot Tidak selalu Aktif
 ╿    => Hubungi #creator udah b..
 ╰═══════════════
 
