@@ -6,7 +6,7 @@ Dibuat dengan javascript via NodeJs,Ffmpeg,dan ImageMagick
 Rec: AWGcorp
 Script: @Nurotomo
 Github: 
-https://github.com/Arya274/Arya-BOT3
+https://github.com/dferdiantn/awgbot
 
 *Sosmed :*
 [ Sementara S.id/dferdiantn ]
@@ -23,7 +23,7 @@ Dan kawan yang lain :)
 ╠═〘 DONASI 〙 ═
 ╠➥ Tsel: 0821-2361-8826
 ╠➥ OVO : 0821-2361-8826
-╠➥ Doge: D5FNtnSCYC9f9aTbNQj6jDmnrMENjdoMzR
+╠
 ║>Request? Wa.me/082123618826
 ╠═〘 INFO BOT 〙 ═
 `.trim(), m)
