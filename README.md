@@ -38,8 +38,8 @@ Simple WhatsApp Bot
 Script: @Nurutomo
 
 <p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="https://media.giphy.com/media/W1QXWwnYSkKo2w6gFB/giphy.gif" title="hover text">
+  <img src="https://media.giphy.com/media/W1QXWwnYSkKo2w6gFB/giphy.gif" width="350" alt="accessibility text">
 </p>
 
 <div style="width:100%;height:0;padding-bottom:178%;position:relative;"><iframe src="https://giphy.com/embed/W1QXWwnYSkKo2w6gFB" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/mood-xtream-udahb-W1QXWwnYSkKo2w6gFB">via GIPHY</a></p>
