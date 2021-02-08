@@ -38,5 +38,9 @@ Simple WhatsApp Bot
 Script: @Nurutomo
 <p align="center">
   <img src="https://media.giphy.com/media/W1QXWwnYSkKo2w6gFB/giphy.gif" width="350" alt="accessibility text">
-  [GITHUB](https://github.com/Arya274) <br> [SOSIAL MEDIA CENTER](https://dferdiantn.github.io)
+  <br/>
+  <br/>
+  [GITHUB](https://github.com/Arya274) 
+  <br/>
+  [SOSIAL MEDIA CENTER](https://dferdiantn.github.io)
 </p>
