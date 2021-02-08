@@ -34,10 +34,9 @@ Simple WhatsApp Bot
 > node index.js
 ```
 
-# Recode: Drawl Nag
+# Recode: AWGcorp
 Script: @Nurutomo
 <p align="center">
   <img src="https://media.giphy.com/media/W1QXWwnYSkKo2w6gFB/giphy.gif" width="350" alt="accessibility text">
+  [GITHUB](https://github.com/Arya274) <br> [SOSIAL MEDIA CENTER](https://dferdiantn.github.io)
 </p>
-
-[GITHUB](https://github.com/Arya274) [SOSIAL MEDIA CENTER](https://dferdiantn.github.io)
