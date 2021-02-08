@@ -2,7 +2,7 @@ let handler = async m => m.reply(`
 ╭─「 Donasi • Pulsa 」
 │ • Telkomsel [6282123618826]
 │ • OVO [6282123618826]
-│ • Doge [D5FNtnSCYC9f9aTbNQj6jDmnrMENjdoMzR]
+│ • Tunai [Pamulang]
 ╰────
 ╭─「 Hubungi 」
 │ > Ingin donasi? Wa.me/6282123618826
