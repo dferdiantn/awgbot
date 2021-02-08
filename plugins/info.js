@@ -16,6 +16,7 @@ Nurotomo
 MfarelS
 ST4RZ
 Emak
+AWG-Crtv
 Soto Ibu Udin
 UDHB.
 Dan kawan yang lain :)
@@ -23,7 +24,7 @@ Dan kawan yang lain :)
 ╠═〘 DONASI 〙 ═
 ╠➥ Tsel: 0821-2361-8826
 ╠➥ OVO : 0821-2361-8826
-╠
+╠➥ Tunai : COD Pamulang
 ║>Request? Wa.me/082123618826
 ╠═〘 INFO BOT 〙 ═
 `.trim(), m)
