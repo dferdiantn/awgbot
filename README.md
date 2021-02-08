@@ -37,7 +37,7 @@ Simple WhatsApp Bot
 # Recode: Drawl Nag
 Script: @Nurutomo
 
-<img src="<iframe src="https://giphy.com/embed/W1QXWwnYSkKo2w6gFB" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mood-xtream-udahb-W1QXWwnYSkKo2w6gFB">via GIPHY</a></p>"/>
+<img src="https://giphy.com/embed/W1QXWwnYSkKo2w6gFB"/>
 
 </p>
 
